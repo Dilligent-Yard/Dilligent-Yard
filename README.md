@@ -1,9 +1,9 @@
 ## About Me
 
-💻 I'm a passionate front-end developer focused on building responsive, user-friendly web interfaces.
-🎨 I enjoy turning complex problems into simple, beautiful, and intuitive designs using HTML, CSS, and JavaScript.
-🚀 Currently, I'm expanding my knowledge in modern front-end frameworks like React, and always looking for opportunities to collaborate on exciting projects.
-🌟 My goal is to combine creativity and technical expertise to build seamless user experiences.
+- 💻 I'm a passionate front-end developer focused on building responsive, user-friendly web interfaces.
+- 🎨 I enjoy turning complex problems into simple, beautiful, and intuitive designs using HTML, CSS, and JavaScript.
+- 🚀 Currently, I'm expanding my knowledge in modern front-end frameworks like React, and always looking for opportunities to collaborate on exciting projects.
+- 🌟 My goal is to combine creativity and technical expertise to build seamless user experiences.
 
 
 
