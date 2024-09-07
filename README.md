@@ -1,10 +1,11 @@
 ## About Me
 
-- 🌱 I’m currently learning and expanding my knowledge in web development and software engineering.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 💻 My dream is to become a software engineer and a full stack developer.
-- 🎮 I also wanted to make my own game one day. But I gave up on that dream.
-- 😊 Thank you for visiting my profile! Have a great day!
+💻 I'm a passionate front-end developer focused on building responsive, user-friendly web interfaces.
+🎨 I enjoy turning complex problems into simple, beautiful, and intuitive designs using HTML, CSS, and JavaScript.
+🚀 Currently, I'm expanding my knowledge in modern front-end frameworks like React, and always looking for opportunities to collaborate on exciting projects.
+🌟 My goal is to combine creativity and technical expertise to build seamless user experiences.
+
+
 
 ## Skills
 
